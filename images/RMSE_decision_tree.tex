@@ -1,0 +1,16 @@
+﻿\begin{table}[!ht]
+    \centering
+    \caption{MAE Results from Decision Trees and Classical Machine Learning ModeRi}
+    \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+    \hline
+        	extbf{Feature\_type} & \textbf{QSPR} & \textbf{QSPR+butina} & \textbf{QSPR+butina+kingdom} & \textbf{QSPR+butina+subclass} & \textbf{QSPR+kingdom} & \textbf{QSPR+subclass} & \textbf{QSPR+full\_taxonomy} & \textbf{QSPR+full\_classification} & \textbf{Non\_classification} \\ \hline
+        \textbf{Train\_Ridge} & 0.975308021 & 0.973599146 & 0.977826856 & 0.94448025 & 0.975658316 & 0.935045236 & 0.935045236 & 0.94759258 & ~ \\ \hline
+        \textbf{Train\_SVM} & 0.705923181 & 0.690582744 & 0.676445927 & 0.941352653 & 0.962637542 & 0.934778029 & 0.934778029 & 0.949157951 & ~ \\ \hline
+        \textbf{Train\_RF} & 0.246602494 & 0.235570864 & 0.07957815 & 0.227589345 & 0.245680419 & 0.074793933 & 0.074824073 & 0.230685633 & ~ \\ \hline
+        \textbf{Train\_LightGBM} & 0.54720588 & 0.467647944 & 0.46011209 & 0.340316114 & 0.546000795 & 0.493291984 & 0.240043046 & 0.44365181 & ~ \\ \hline
+        \textbf{Ridge} & 1.015351006 & 1.006132537 & 0.993240008 & 0.9660548 & 0.984933203 & 1.003405084 & 1.003405084 & 0.953083385 & ~ \\ \hline
+        \textbf{SVM} & 0.840282546 & 0.799114118 & 0.831100758 & 0.970204788 & 0.986347731 & 1.0043924 & 1.0043924 & 0.943238729 & ~ \\ \hline
+        \textbf{RF} & 0.81542181 & 0.773100631 & 0.779737542 & 0.7636896 & 0.788974213 & 0.784496776 & 0.782980983 & 0.739648358 & ~ \\ \hline
+        \textbf{LightGBM} & 0.82357419 & 0.682671945 & 0.693216584 & 0.658369531 & 0.789188395 & 0.751947518 & 0.722004182 & 0.662177059 & ~ \\ \hline
+    \end{tabular}
+\end{table}
