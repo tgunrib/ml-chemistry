@@ -1,0 +1,1066 @@
+,SMILES,classes,kingdom,acetylides,alkaloids,allenes,benzenoids,carbenes,homogenous_metal,homogenous_non_metal,hydrocarbon,hydrocarbon_derivatives,inorganic_salts,lignans_neolignans_and_related,lipids,miscellaneous_inorganic,mixed_metal_non_metal,nucleosides_nucleotides_analogues,organic_1_3_dipolar,organic_acids,organic_anions,organic_cations,organic_nitrogen,organic_oxygen,organic_polymers,organic_salts,organic_zwitterions,organohalogens,organoheterocyclic,organometallics,organophosphorus,organopnictogens,organosulfur,phenylpropanoids_and_polyketides
+0,ClCC(Cl)(Cl)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1,CC(Cl)(Cl)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2,ClC(Cl)C(Cl)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+3,ClCC(Cl)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+4,FC(F)(Cl)C(F)(Cl)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+5,CC(Cl)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+6,C=C(Cl)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+7,CCOC(C)OCC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+8,Clc1ccc(Cl)c(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+9,c1ccc2c(c1)CCCC2,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+10,Clc1cc(Cl)c(Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+11,Clc1cccc(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+12,Cc1cccc(C)c1C,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+13,Brc1cc(Br)c(Br)cc1Br,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,Clc1cc(Cl)c(Cl)cc1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+15,Cc1cc(C)c(C)cc1C,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+16,Brc1ccc(Br)c(Br)c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Clc1ccc(Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+18,Cc1ccc(C)c(C)c1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+19,Oc1ccccc1O,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,Brc1ccccc1Br,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,BrCCBr,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+22,Clc1ccccc1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+23,ClCCCl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+24,CC(Cl)CCl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+25,FC(F)(Cl)C(F)(F)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+26,CCOCCOCC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+27,CCc1ccccc1CC,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+28,O=[N+]([O-])c1ccccc1[N+](=O)[O-],"['homogenous_non_metal', 'inorganic_salts']",inorganic,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,CC1CO1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+30,Brc1cc(Br)cc(Br)c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Clc1cc(Cl)cc(Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+32,Cc1cc(C)cc(C)c1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+33,O=[N+]([O-])c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1,"['homogenous_non_metal', 'inorganic_salts']",inorganic,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Oc1cccc(O)c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,C=CC=C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Brc1cccc(Br)c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Clc1cccc(Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+38,ClCCCCl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+39,CCNC(=S)NCC,"['organosulfur', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+40,Fc1cccc(F)c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Cc1cc(C)c2ccccc2c1,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+42,O=[N+]([O-])c1cccc([N+](=O)[O-])c1,"['homogenous_non_metal', 'inorganic_salts']",inorganic,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Oc1ccc(O)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,C1=CCC=CC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+45,Brc1ccc(Br)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Clc1ccc(Cl)cc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+47,CCc1ccc(CC)cc1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+48,Fc1ccc(F)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Cc1ccc(C)c2ccccc12,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+50,O=[N+]([O-])c1ccc([N+](=O)[O-])cc1,"['homogenous_non_metal', 'inorganic_salts']",inorganic,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,C=CCC=C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Cc1cccc2c(C)cccc12,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+53,C=CCCC=C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,c1cnc2c(c1)ccc1ncccc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,CC12CCC(CC1)C(C)(C)O2,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+56,CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC2(C)O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+57,Nc1cccc2nc3ccccc3cc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,CC(C)CBr,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+59,CCCCBr,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+60,CCCCCCCBr,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+61,CCCCCCBr,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+62,Brc1cccc2ccccc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,CCCCCCCCBr,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+64,CCCCCBr,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+65,CCCBr,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+66,CCCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+67,C=CCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,C#CCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,ClCCBr,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+70,CC(C)CCl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+71,CCCCCl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+72,CCCCCCCCl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+73,CCCCCCCl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+74,Clc1cccc2ccccc12,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+75,CCCCCCl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+76,CCCCl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+77,CCCCCCCCCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+78,C=CCCCCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,CCCCCCCCCCCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+80,CCc1cccc2ccccc12,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+81,CCCCCCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+82,C=CCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,C#CCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,CCCCCCCCCCCCCCCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+85,CCCCCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+86,C=CCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,C=CC(O)CCC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+88,C#CCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,CCCCI,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+90,CCCCCCCI,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+91,Ic1cccc2ccccc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,CCCI,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+93,CC1=CCCCC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+94,Cc1cccc2c1Cc1ccccc1-2,"['organoheterocyclic', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+95,Cc1cccc2ccccc12,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+96,Cc1cccc2c1ccc1ccccc12,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+97,Cn1ccc(=O)[nH]c1=O,"['organoheterocyclic', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0
+98,Oc1cccc2ccccc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,Nc1cccc2ccccc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,O=[N+]([O-])c1cccc2ccccc12,"['homogenous_non_metal', 'inorganic_salts']",inorganic,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,CCC[N+](=O)[O-],"['organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0
+102,CCCCCCCCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+103,C=CCCCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,C#CCCCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,CCCCCCCCCCCCCCCCCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+106,CCCCCCCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+107,C=CCCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,C#CCCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,CCCCCCCCCCCCCCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+110,CCCCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+111,C=CCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,C#CCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,CC(O)c1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+114,CCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+115,CCCCCCCCCCCCCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+116,Clc1c(Cl)c(Cl)c(-c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+117,Clc1cc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+118,Clc1ccc(-c2ccc(Cl)c(Cl)c2Cl)c(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+119,Clc1cc(Cl)c(Cl)c(-c2c(Cl)c(Cl)cc(Cl)c2Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+120,Clc1cccc(-c2c(Cl)c(Cl)cc(Cl)c2Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+121,Clc1cccc(-c2cccc(Cl)c2Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+122,Clc1ccc(-c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+123,Clc1ccc(Cl)c(-c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+124,Clc1ccc(Cl)c(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+125,Clc1cc(Cl)c(-c2cccc(Cl)c2Cl)cc1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+126,Clc1ccc(-c2c(Cl)ccc(Cl)c2Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+127,Clc1ccc(Cl)c(-c2c(Cl)c(Cl)cc(Cl)c2Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+128,Clc1ccc(Cl)c(-c2cccc(Cl)c2Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+129,CC(C)C(C)(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,Clc1cc(Cl)c(-c2cc(Cl)c(Cl)cc2Cl)cc1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+131,Clc1cc(Cl)c(-c2c(Cl)cc(Cl)cc2Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+132,Clc1ccc(-c2cc(Cl)ccc2Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+133,Clc1cc(Cl)c(-c2c(Cl)cccc2Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+134,CC(C)CC(C)(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,CC(C)CCC(C)(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,Clc1cccc(Cl)c1-c1c(Cl)cccc1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+137,CCC(C)(C)CO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+138,CCC(C)(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,CCCC(C)(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,CCCC(C)(C)CO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+141,CC(C)(C)CO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+142,Clc1ccccc1-c1ccccc1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+143,Clc1ccc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)cc1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+144,Clc1ccc(-c2c(Cl)cc(Cl)c(Cl)c2Cl)c(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+145,Clc1ccc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+146,Clc1ccc(-c2ccc(Cl)c(Cl)c2Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+147,Clc1c(Cl)c(Cl)c(-c2ccccc2)c(Cl)c1Cl,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+148,Clc1ccc(Cl)c(-c2ccc(Cl)c(Cl)c2)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+149,Oc1cc(Cl)c(Cl)c(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+150,Oc1c(Cl)cc(Cl)c(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+151,Clc1ccc(-c2cccc(Cl)c2Cl)cc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+152,Oc1ccc(Cl)c(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+153,CC(C)C(C)C(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,Oc1c(Cl)c(Cl)cc(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+155,Clc1cccc(-c2cc(Cl)ccc2Cl)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+156,Oc1cc(Cl)cc(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+157,Oc1c(Cl)ccc(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+158,O=[N+]([O-])c1cccc(Cl)c1Cl,"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0
+159,Oc1cccc(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+160,C=C(C)C(=C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,CC(C)C(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,Cc1cc2ccccc2cc1C,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+163,CCC(C)C(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,Cc1cccnc1C,"['organoheterocyclic', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+165,Clc1ccc(-c2cc(Cl)ccc2Cl)cc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+166,Oc1cc(Cl)c(Cl)cc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+167,Clc1ccc(-c2c(Cl)cccc2Cl)cc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+168,Oc1c(Cl)cc(Cl)cc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+169,Cc1cc(C)c(O)c(C)c1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+170,Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-],"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+171,Oc1ccc(Cl)cc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+172,CC(C)CC(C)(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+173,CC(C)C(O)C(C)C,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+174,CC(C)C(=O)C(C)C,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+175,CC(C)CC(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,Cc1ccc(O)c(C)c1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+177,Cc1ccnc(C)c1,"['organoheterocyclic', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+178,Cc1ccc([N+](=O)[O-])cc1[N+](=O)[O-],"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+179,Clc1ccc(-c2ccccc2Cl)cc1,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+180,Oc1c(Cl)cccc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+181,Cc1ccc2cc(C)ccc2c1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+182,Cc1cccc(C)c1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+183,Cc1cccc(C)n1,"['organoheterocyclic', 'organometallics', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+184,Cc1c([N+](=O)[O-])cccc1[N+](=O)[O-],"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+185,Clc1cccc(Cl)c1-c1ccccc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+186,Cc1ccc2ccc(C)nc2c1,"['organoheterocyclic', 'organometallics', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+187,Nc1ccc2cc3ccccc3cc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,Brc1ccc2ccccc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,CC(C)Br,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+190,Cc1ccccc1Br,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+191,CCC(C)=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+192,CC=CC=O,"['phenylpropanoids_and_polyketides', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+193,CCCCOCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+194,CCC(C)(C)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+195,COc1ccccc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+196,Clc1ccccc1-c1ccccc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+197,CCC(C)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+198,Clc1ccc2ccccc2c1,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+199,Oc1ccccc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+200,CC(C)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+201,Cc1ccccc1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+202,N#CN=C(N)N,"['organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+203,CCCCCCCCC(C)=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+204,CCc1ccccn1,"['organoheterocyclic', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+205,CCC(CC)CO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+206,CCCCC(CC)CO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+207,CCCC=C(C=O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+208,CCC(C=O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+209,CCCCC(C=O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+210,CCc1ccc2ccccc2c1,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+211,CCc1ccccc1C,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+212,CCCCCC(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+213,CCCCCC(C)=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+214,CCCCC(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+215,CCCCC(C)=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+216,Oc1ncc2nccnc2n1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,Oc1ccccn1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,CC(C)I,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+219,Cc1ccccc1C(C)C,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+220,COc1ncc2nccnc2n1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+221,CC=C(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,C=CC(=C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,C=C(C)CC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,C=C(C)CCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,CCCCCC(C)(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+226,CCCCC(C)(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+227,CCCC(C)(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+228,CCC(O)C(C)C,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+229,Cc1ccc2cc3ccccc3cc2c1,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+230,CCC(C)(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+231,CCC(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,CCC(C)CO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+233,CCCCCC(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,Cc1ccc2ccccc2c1,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+235,CCCC(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,CCCC(C)CO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+237,Cc1ccc2c(ccc3ccccc32)c1,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+238,Cc1ccccc1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+239,CC(C)CO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+240,CC(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,C=C(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,Cc1ncc2nccnc2n1,"['organoheterocyclic', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+243,CC1CCCO1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+244,Oc1ccc2ccccc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,CC(C)[N+](=O)[O-],"['organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0
+246,CCCCCCCC(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+247,CCCCCCCC(C)=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+248,CCCCCCC(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+249,CCCCCCC(C)=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+250,CCCC(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+251,CCCC(C)=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+252,OCCOc1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+253,CC(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+254,O=C1CCCN1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+255,CCCCCCCCCC(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+256,CC(C)(C)CCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+257,CC(O)C(C)(C)C,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+258,CC(=O)C(C)(C)C,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+259,CCC(C)(C)CC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,O=[N+]([O-])c1ccc(Cl)c(Cl)c1,"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0
+261,Oc1ccc(Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+262,Cc1ccc(O)cc1C,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+263,Cc1ccncc1C,"['organoheterocyclic', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+264,Clc1ccc(-c2ccccc2)cc1Cl,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+265,Oc1cc(Cl)cc(Cl)c1,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+266,Cc1cc(C)cc(O)c1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+267,Cc1cncc(C)c1,"['organoheterocyclic', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+268,CCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,"['organoheterocyclic', 'benzenoids', 'lipids', 'phenylpropanoids_and_polyketides', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+269,COc1cccc(Cl)c1,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+270,Clc1cccc(-c2ccccc2)c1,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+271,Oc1cccc(Cl)c1,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+272,N#CCCCl,"['organohalogens', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+273,CC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,"['organoheterocyclic', 'benzenoids', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+274,CCC(O)(CC)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+275,CCCCC(O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+276,CCCCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,"['organoheterocyclic', 'benzenoids', 'lipids', 'phenylpropanoids_and_polyketides', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+277,CCCC(O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+278,CCCC(=O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+279,CCCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,"['organoheterocyclic', 'benzenoids', 'lipids', 'phenylpropanoids_and_polyketides', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+280,CCC#CCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+281,C=CC(C)C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,CC(C)C(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+283,CC(=O)C(C)C,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+284,CCC(C)CCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+285,CCC(C)C(C)=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+286,CCCCC(C)(O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+287,CCCC(C)(O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+288,CCC(C)(O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+289,CC(C)CCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+290,Cc1ccc2c(ccc3c4c5c(cccc5cc32)CC4)c1,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+291,CCCCC(C)CC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Cc1c[nH]c2ccccc12,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+293,CCC(C)CC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Cc1cccc(O)c1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+295,CCCCCC(O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+296,CCCCCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,"['organoheterocyclic', 'benzenoids', 'lipids', 'phenylpropanoids_and_polyketides', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+297,CCC(O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+298,CCC(=O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+299,CCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,"['organoheterocyclic', 'benzenoids', 'lipids', 'phenylpropanoids_and_polyketides', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+300,CCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+301,Clc1ccc(-c2ccc(Cl)cc2)cc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+302,Oc1ccc(Br)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,Cc1ccc(Br)cc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+304,COc1ccc(Cl)cc1,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+305,Oc1ccc(Cl)cc1,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+306,Cc1ccc(Cl)cc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+307,CCc1ccc(C)cc1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+308,CCCC(O)CCC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+309,CCCC(=O)CCC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+310,CCCCCCc1ccc(O)cc1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+311,Oc1ccncc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,Cc1ccc(C(C)C)cc1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+313,COc1ncnc2nccnc12,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+314,CC(C)CC(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+315,CC(=O)CC(C)C,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+316,Cc1ccc(-c2ccccc2)cc1,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+317,CC(C)CCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+318,Cc1ncnc2nccnc12,"['organoheterocyclic', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+319,CC(=O)Nc1ccc([N+](=O)[O-])cc1,"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+320,C=CCCCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+321,CCC1(CC=C(C)C)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+322,CC(C)=CCC1(C(C)C)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+323,C=CCC1(CC=C)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+324,CC(C)C1(C(C)C)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+325,CC1(C)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+326,Oc1ccc2c(c1)CCCC2,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+327,Cc1c(C)c2c3ccccc3ccc2c2ccccc12,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+328,C=CCC1(CC)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+329,C=CCC1(C(C)C)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+330,C=CCC1(C)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+331,C=CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+332,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+333,CCC1(C(C)C)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+334,CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+335,O=c1[nH]cc(F)c(=O)[nH]1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,Oc1cccc2ncccc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,CCC1(C)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+338,Cc1cc2ccccc2c2ccc3ccccc3c12,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+339,Cc1c[nH]c(=O)nc1N,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+340,CCCCC(=O)CCCC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+341,Nc1cc2c3ccccc3ccc2c2ccccc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+342,Oc1ccc2ncccc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+343,COc1cnc2ncncc2n1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+344,Cc1cc2c3ccccc3ccc2c2ccccc12,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+345,Cc1c2ccccc2c(C)c2c1ccc1ccccc12,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+346,COc1cnc2cncnc2n1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+347,Cc1cnc2cncnc2n1,"['organoheterocyclic', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+348,Oc1cccc2cccnc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,Cc1c2ccccc2c(C)c2ccccc12,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+350,Oc1c2ccccc2cc2ccccc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,Cc1c2ccccc2cc2ccccc12,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+352,COP(=S)(OC)Oc1ccc(Sc2ccc(OP(=S)(OC)OC)cc2)cc1,"['organoheterocyclic', 'organometallics', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0
+353,c1cc2c3c(cccc3c1)CC2,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+354,C1=Cc2cccc3cccc1c23,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+355,COP(=O)(NC(C)=O)SC,"['organosulfur', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0
+356,CC(N)=O,"['organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+357,CC(=O)Nc1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+358,CC(=O)Nc1nnc(S(N)(=O)=O)s1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+359,CC#N,"['organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+360,CC(=O)c1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+361,CC(=O)N(c1onc(C)c1C)S(=O)c1ccc(N)cc1,"['organosulfur', 'organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0
+362,c1ccc2nc3ccccc3cc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,C=CC=O,"['phenylpropanoids_and_polyketides', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+364,C=CC#N,"['organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+365,Nc1ncnc2nc[nH]c12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+366,CC12CC(=O)C3C(CCC4=CC(=O)CCC43C)C1CCC2=O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+367,CCc1cccc(CC)c1N(COC)C(=O)CCl,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+368,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C=O)C(C(=O)CO)CCC12,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+369,ClC1=C(Cl)C2(Cl)C3C4C=CC(C4)C3C1(Cl)C2(Cl)Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+370,NC(=O)NC1NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+371,C=CCSS(=O)CC=C,"['organosulfur', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+372,O=c1[nH]cnc2[nH]ncc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,O=C1NC(=O)C(=O)C(=O)N1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+374,O=C1NC(=O)C(O)(C2(O)C(=O)NC(=O)NC2=O)C(=O)N1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+375,CN(C)c1nc(N(C)C)nc(N(C)C)n1,"['organoheterocyclic', 'organometallics', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0
+376,CCNc1nc(NC(C)C)nc(SC)n1,"['organosulfur', 'organoheterocyclic', 'organometallics', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0
+377,N#CC(OC1OC(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O)c1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+378,CNC(=O)Oc1ccc(N(C)C)c(C)c1,"['organoheterocyclic', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+379,Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C,"['organoheterocyclic', 'benzenoids', 'alkaloids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_anions', 'organopnictogens']",organic,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,0,0
+380,Nc1nccs1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+381,Cc1ccc(N=CN(C)C=Nc2ccc(C)cc2C)c(C)c1,"['organoheterocyclic', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+382,Nc1nc[nH]n1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+383,Cc1c(N)c(=O)n(-c2ccccc2)n1C,"['organoheterocyclic', 'benzenoids', 'alkaloids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_anions', 'organopnictogens']",organic,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,0,0
+384,COc1ccc(C(O)(c2cncnc2)C2CC2)cc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+385,CC12CCC3C(CCC4=CC(=O)CCC43C)C1CCC2=O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+386,CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+387,CC=Cc1ccc(OC)cc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+388,Nc1ccccc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+389,COP(=S)(OC)SCC(=O)N(c1ccc(Cl)cc1)C(C)C,"['organosulfur', 'organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,1,1,0
+390,COc1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+391,c1ccc2cc3ccccc3cc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,O=C1c2ccccc2C(=O)c2ccccc21,"['organoheterocyclic', 'benzenoids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+393,Cc1cc(=O)n(-c2ccccc2)n1C,"['organoheterocyclic', 'benzenoids', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_anions', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0
+394,CCCC1C(=O)N2C(N(C)C)=Nc3ccc(C)cc3N2C1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+395,O=C1C(O)=C(C2CCC(c3ccc(Cl)cc3)CC2)C(=O)c2ccccc21,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+396,CCNc1nc(NC(C)C)nc(OC)n1,"['organoheterocyclic', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0
+397,CCNc1nc(Cl)nc(NC(C)C)n1,"['organoheterocyclic', 'organohalogens', 'organometallics', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0
+398,CCN(CC)C(=O)CSc1ccc(Cl)nn1,"['organosulfur', 'organoheterocyclic', 'organohalogens', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0
+399,c1ccc(N=Nc2ccccc2)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,CNC(=O)C=C(C)OP(=O)(OC)OC,"['organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0
+401,O=C(Nc1cccc(Cl)c1)OCC#CCCl,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+402,CCC1(CC)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+403,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NC(Cc1ccccc1)NS2(=O)=O,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+404,CCCCN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0
+405,CCOC(=O)CCN(SN(C)C(=O)Oc1cccc2c1OC(C)(C)C2)C(C)C,"['organoheterocyclic', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+406,O=C(Nc1ccccc1)c1ccccc1I,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+407,CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc21,"['organoheterocyclic', 'benzenoids', 'lipids', 'phenylpropanoids_and_polyketides', 'organic_acids', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,1,0,1
+408,CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)c1ccccc1,"['organosulfur', 'organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,1,1,0
+409,O=Cc1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+410,NC(=O)c1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+411,c1ccccc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,OC(c1ccccc1)c1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+413,O=C(Cn1ccnc1[N+](=O)[O-])NCc1ccccc1,"['organoheterocyclic', 'organic_salts', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,1,0,1,0,0
+414,c1ccc2c(c1)Cc1c-2ccc2ccccc12,"['organoheterocyclic', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+415,c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,c1ccc2c(c1)-c1cccc3c1c-2cc1ccccc13,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+417,c1ccc2c(c1)Cc1cc3ccccc3cc1-2,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+418,c1ccc2c(c1)c1cccc3ccc4cccc2c4c31,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+419,c1ccc2c3c(ccc2c1)-c1cccc2cccc-3c12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+420,c1ccc2cc3c(cc2c1)-c1cccc2cccc-3c12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+421,c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,CCOC(=O)c1ccc(N)cc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+423,O=C(c1ccccc1)C(O)c1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+424,N#Cc1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+425,O=C(c1ccccc1)c1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+426,c1ccc2scnc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+427,c1ccc2[nH]nnc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+428,c1ccc2ocnc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+429,ClCc1ccccc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+430,FC(F)(F)c1ccccc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+431,NC(=O)NCc1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+432,CCCCC(=O)OC1(C(=O)CO)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,"['organoheterocyclic', 'lipids', 'organic_acids', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+433,c1ccc(CCc2ccccc2)cc1,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+434,c1ccc(-c2ccccc2)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,c1ccc2nc(-c3ccc4ccccc4n3)ccc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+436,CC1(C)C2CCC1(C)C(O)C2,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+437,CCC(C)n1c(=O)[nH]c(C)c(Br)c1=O,"['organoheterocyclic', 'organohalogens', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0
+438,O=c1oc2ccccc2c(O)c1C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0
+439,Brc1ccccc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+440,ClCBr,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+441,ClC(Cl)Br,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+442,CCBr,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+443,CBr,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+444,COP(=S)(OC)Oc1cc(Cl)c(Br)cc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0
+445,CC(C)OC(=O)C(O)(c1ccc(Br)cc1)c1ccc(Br)cc1,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+446,N#Cc1cc(Br)c(O)c(Br)c1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+447,Nc1cnn(-c2ccccc2)c(=O)c1Br,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+448,CCCCc1c(C)nc(NCC)nc1OS(=O)(=O)N(C)C,"['organoheterocyclic', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0
+449,CCC(C)C1(CC)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+450,CNC(=O)Oc1cc(C(C)(C)C)cc(C(C)(C)C)c1,"['organoheterocyclic', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+451,CCCCOCN(C(=O)CCl)c1c(CC)cccc1CC,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+452,C=C(Br)CC1(C(C)CC)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+453,CCCCOC(=O)c1ccc(N)cc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+454,CCC(C)O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+455,CCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+456,CCCCS,"['organosulfur', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+457,CCCCC1(CC)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+458,CN1CC(O)N(c2nnc(C(C)(C)C)s2)C1=O,"['organoheterocyclic', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0
+459,C#CC(C)N(C)C(=O)Nc1ccc(Cl)cc1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+460,CCCCOC=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+461,CCSC(=O)N(CC(C)C)CC(C)C,"['organosulfur', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+462,CCCCc1ccccc1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+463,CCCC=O,"['phenylpropanoids_and_polyketides', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+464,Cn1c(=O)c2c(ncn2C)n(C)c1=O,"['organoheterocyclic', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0
+465,CC12CCC(CC1=O)C2(C)C,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+466,CCCCCC=O,"['phenylpropanoids_and_polyketides', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+467,O=C1C2CC=CCC2C(=O)N1SC(Cl)(Cl)C(Cl)Cl,"['organosulfur', 'organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0
+468,O=C(Nc1ccccc1)Nc1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+469,CNC(=O)Oc1cccc2ccccc12,"['organoheterocyclic', 'benzenoids', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+470,c1ccc2c(c1)[nH]c1ccccc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+471,CCNC(=O)C(C)OC(=O)Nc1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+472,CNC(=O)Oc1cccc2c1OC(C)(C)C2,"['organoheterocyclic', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+473,CCOP(=S)(OCC)SCSc1ccc(Cl)cc1,"['organosulfur', 'organoheterocyclic', 'organohalogens', 'organometallics', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0
+474,CC1=C(C(=O)Nc2ccccc2)SCCO1,"['organosulfur', 'organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0
+475,CCC(Br)(CC)C(=O)NC(N)=O,"['organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0
+476,Cc1ccc(C(C)C)cc1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+477,C=C(C)C1CC=C(C)C(=O)C1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+478,OCC(O)C1OC2OC(C(Cl)(Cl)Cl)OC2C1O,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+479,O=C(NC(CO)C(O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl,"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0
+480,CCN(CC)c1nc(Cl)nc(N(CC)CC)n1,"['organoheterocyclic', 'organohalogens', 'organometallics', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0
+481,CON(C)C(=O)Nc1ccc(Br)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+482,C#CC(C)OC(=O)Nc1cccc(Cl)c1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+483,ClC1=C(Cl)C2(Cl)C3C(Cl)C(Cl)CC3C1(Cl)C2(Cl)Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+484,ClC1=C(Cl)C2(Cl)C3CC=CC3C1(Cl)C2(Cl)Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+485,Cc1cc(Cl)ccc1N=CN(C)C,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0
+486,CCOC(=O)c1ccccc1S(=O)(=O)NN(C=O)c1nc(Cl)cc(OC)n1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+487,NC(=O)CCl,"['organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0
+488,N#CCCl,"['organohalogens', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+489,Clc1ccccc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+490,ClC(Br)Br,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+491,CCCl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+492,C=CCl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+493,CC(C)OC(=O)Nc1cccc(Cl)c1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+494,O=[N+]([O-])C(Cl)(Cl)Cl,"['organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0
+495,CC(C)OC(=O)C(O)(c1ccc(Cl)cc1)c1cccc(Cl)c1,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+496,N#Cc1c(Cl)c(Cl)c(Cl)c(C#N)c1Cl,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0
+497,NS(=O)(=O)c1cc2c(cc1Cl)N=CNS2(=O)=O,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+498,Cc1ccc(NC(=O)N(C)C)cc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+499,CN(C)C(=O)Nc1ccc(Oc2ccc(Cl)cc2)cc1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+500,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0
+501,Clc1c(Cl)c(Cl)c2nccnc2c1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
+502,NS(=O)(=O)c1cc(C2(O)NC(=O)c3ccccc32)ccc1Cl,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+503,O=c1[nH]c2cc(Cl)ccc2o1,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0
+504,c1cc2c3c(c4ccc5ccccc5c4cc3c1)CC2,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+505,c1ccc2c(c1)ccc1c3ccccc3ccc21,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+506,Cl/C=C\Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+507,CC1CCCCC1C,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+508,C/C=C\CC,['hydrocarbon_derivatives'],organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+509,CC(C)=CCCC(C)=CC=O,"['phenylpropanoids_and_polyketides', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+510,CC1(C)CON(Cc2ccccc2Cl)C1=O,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+511,O=C1CN=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2N1,"['organoheterocyclic', 'benzenoids', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0
+512,c1cc2ccc3ccc4ccc5ccc6ccc1c1c2c3c4c5c61,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+513,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C(C(=O)CO)CCC12,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+514,CC12CCC(=O)C=C1CCC1C2C(=O)CC2(C)C1CCC2(O)C(=O)CO,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+515,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(=O)CC21C,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+516,CC(=O)CC(c1ccc(Cl)cc1)c1c(O)c2ccccc2oc1=O,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1
+517,CCOP(=S)(OCC)Oc1ccc2oc(=O)c(Cl)c(C)c2c1,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0
+518,O=c1oc2ccccc2c(O)c1C1CCCc2ccccc21,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+519,CCNc1nc(Cl)nc(NC(C)(C)C#N)n1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0
+520,CCSC(=O)N(CC)C1CCCCC1,"['organosulfur', 'organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0
+521,CCC1(C2=CCCCC2)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+522,O=C1NC(=O)C2(CCC2)C(=O)N1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+523,C1CCCCCC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+524,OC1CCCCCC1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+525,C1=CCCCCC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+526,O=C1NC(=O)C2(CCCCCC2)C(=O)N1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+527,C1CCCCC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+528,OC1CCCCC1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+529,O=C1CCCCC1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+530,C1=CCCCC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+531,CC1CC(C)C(=O)C(C(O)CC2CC(=O)NC(=O)C2)C1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+532,O=C1NC(=O)C2(CCCCC2)C(=O)N1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+533,C1CCCCCCC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+534,OC1CCCCCCC1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+535,O=C1NC(=O)C2(CCCCCCC2)C(=O)N1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+536,C1CCCC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+537,C1=CCCC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+538,O=C1NC(=O)C2(CCCC2)C(=O)N1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+539,O=C1NC(=O)C2(CC2)C(=O)N1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+540,CN(C)C(=O)NC1CCCCCCC1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+541,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1ccc(F)c(Oc2ccccc2)c1,"['organoheterocyclic', 'benzenoids', 'organic_acids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+542,CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,"['organoheterocyclic', 'benzenoids', 'organic_acids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+543,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,"['organoheterocyclic', 'benzenoids', 'organic_acids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+544,Nc1cc[nH]c(=O)n1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+545,C#CC1(O)CCC2C3CCC4=Cc5oncc5CC4(C)C3CCC21C,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+546,Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+547,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)Cl)cc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+548,ClC(Cl)=C(c1ccc(Cl)cc1)c1ccc(Cl)cc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+549,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+550,C1CCC2CCCCC2C1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+551,CCCCSP(=O)(SCCCC)SCCCC,"['organosulfur', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+552,CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,"['organoheterocyclic', 'benzenoids', 'organic_acids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+553,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(C(=O)CO)CCC12,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+554,CC(=O)OCC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+555,CCOC(=O)Nc1cccc(OC(=O)Nc2ccccc2)c1,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+556,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+557,CC(=O)OCC(=O)C1(O)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,"['organoheterocyclic', 'organic_acids', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+558,CC12CCC(C1)C(C)(C)C2=O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+559,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,"['organoheterocyclic', 'lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+560,CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O,"['organosulfur', 'organoheterocyclic', 'benzenoids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,1,1,0
+561,CC(C)N(C(=O)SCC(Cl)=CCl)C(C)C,"['organosulfur', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,1,0
+562,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+563,CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1,"['organoheterocyclic', 'organometallics', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0
+564,c1ccc2c(c1)oc1ccccc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+565,c1ccc2c(c1)sc1ccccc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+566,BrCBr,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+567,CCCCOCCCC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+568,CCCCOC(=O)CCCCCCCCC(=O)OCCCC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+569,CCCCOC(=O)c1ccccc1C(=O)OCCCC,"['organoheterocyclic', 'lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+570,COP(=S)(OC)Oc1ccc([N+](=O)[O-])cc1Cl,"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0,0
+571,ClCCl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+572,Oc1ccc(Cl)cc1Cc1cc(Cl)ccc1O,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+573,OC(c1ccc(Cl)cc1)(c1ccc(Cl)cc1)C(Cl)(Cl)Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+574,ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+575,CC=C(C(=CC)c1ccc(O)cc1)c1ccc(O)cc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+576,ClC1=C(Cl)C(Cl)(C2(Cl)C(Cl)=C(Cl)C(Cl)=C2Cl)C(Cl)=C1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+577,CCOCC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+578,CCOC(=O)c1ccccc1C(=O)OCC,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+579,CCSCC,"['organosulfur', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+580,CCSSCC,"['organosulfur', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+581,CCC(=C(CC)c1ccc(O)cc1)c1ccc(O)cc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+582,COc1ccc(Oc2ccc(NC(=O)N(C)C)cc2)cc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+583,O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(Cl)cc1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+584,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CCC5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+585,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+586,CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC,"['organoheterocyclic', 'lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+587,ICI,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+588,CC(C)CCCCCOC(=O)c1ccccc1C(=O)OCCCCCC(C)C,"['organoheterocyclic', 'lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+589,CC(C)OC(C)C,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+590,CC(C)SC(C)C,"['organosulfur', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+591,CCN(CC)C(=O)C(Cl)=CCOP(=O)(OC)OC,"['organohalogens', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,0
+592,CN(C)C(=O)Nc1ccc(-n2nc(C(C)(C)C)oc2=O)c(Cl)c1,"['organoheterocyclic', 'alkaloids', 'organohalogens', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_anions', 'organopnictogens']",organic,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,1,0,1,0,0
+593,CN(C)C(=O)OC1=CC(=O)CC(C)(C)C1,"['organoheterocyclic', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+594,CCCCc1c(C)nc(N(C)C)nc1O,"['organoheterocyclic', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0
+595,COCOC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+596,COC(=O)c1ccccc1C(=O)OC,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+597,CSC,"['organosulfur', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+598,CSSC,"['organosulfur', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+599,CCN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)c(N)c1[N+](=O)[O-],"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0
+600,CCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+601,OC1C(O)C(O)C(O)C(O)C1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+602,CCCSCCC,"['organosulfur', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+603,CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC,"['organoheterocyclic', 'lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+604,CC1COC2CC3(C)C(CC4C5C=C6CC(O)CCC6(C)CC5CCC43C)OC2C1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+605,CNC(=O)Oc1ccccc1C1OCCO1,"['organoheterocyclic', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+606,CN(C)C(=O)C(c1ccccc1)c1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+607,c1ccc(Oc2ccccc2)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+608,c1ccc(Nc2ccccc2)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+609,c1ccc(Cc2ccccc2)cc1,"['organoheterocyclic', 'benzenoids', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+610,CCCOCCC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+611,CCN(CC)C(=S)SSC(=S)N(CC)CC,"['organosulfur', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+612,CCOP(=S)(OCC)SCCSCC,"['organosulfur', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+613,CCOP(=S)(OCC)N1C(=O)c2ccccc2C1=O,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,1,0,0
+614,CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+615,C=C(C)C1CC=C(C)CC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+616,Cc1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+617,CCOc1ccc(NC(N)=O)cc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+618,Cn1c(=O)c2c(ncn2CC(O)CO)n(C)c1=O,"['organoheterocyclic', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0
+619,CCCCCCCCCCCCCCCCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+620,CC12CCC3C(CCC4CC5SC5CC43C)C1CCC2O,"['organosulfur', 'organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+621,CC12CCc3c(ccc4cc(O)ccc34)C1CCC2=O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+622,CC12CCC3C(=CCc4cc(O)ccc43)C1CCC2=O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+623,O=C1CC(c2ccc(O)c(O)c2)Oc2cc(O)cc(O)c21,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+624,OCC(O)C(O)CO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+625,CC12CCC3c4ccc(O)cc4CCC3C1CCC2O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+626,C=CCc1ccc(OC)cc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+627,CC12CCC3c4ccc(O)cc4CCC3C1CC(O)C2O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+628,CC12CCC3c4ccc(O)cc4CCC3C1CCC2=O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+629,C=C(C)CN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0
+630,CC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+631,CCS,"['organosulfur', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+632,CCO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+633,C#CC1(O)CCC2C3CCc4cc(O)ccc4C3CCC21C,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+634,CCSCc1ccccc1OC(=O)NC,"['organosulfur', 'organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0
+635,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,"['organosulfur', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+636,CCCCc1c(C)nc(NCC)[nH]c1=O,"['organoheterocyclic', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0
+637,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+638,CCOC1Oc2ccc(OS(C)(=O)=O)cc2C1(C)C,"['organosulfur', 'organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+639,CCOc1ccc2nc(S(N)(=O)=O)sc2c1,"['organoheterocyclic', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0
+640,CCOC(C)=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+641,CCOC(=O)c1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+642,CCCCCOC(=O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+643,CCOC(=O)C=Cc1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+644,CCCCCCCCCC(=O)OCC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+645,CCOC=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+646,CCCCCCC(=O)OCC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+647,CCCCCC(=O)OCC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+648,CCCCCCCCC(=O)OCC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+649,CCCCCCCC(=O)OCC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+650,CCCOC(=O)CCC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+651,CCOC(=O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+652,CCCOCC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+653,C=COCC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+654,CCc1ccccc1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+655,CCC1CCCCC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+656,C=C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+657,CCOC(=O)c1ccc(O)cc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+658,C#C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+659,CCOc1ccc(C(C)(C)COCc2cccc(Oc3ccccc3)c2)cc1,"['organoheterocyclic', 'benzenoids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+660,CCOC(=O)c1cncn1C(C)c1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+661,COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O,"['organoheterocyclic', 'benzenoids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+662,C=CCc1ccc(O)c(OC)c1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+663,OC(c1ccc(Cl)cc1)(c1cncnc1)c1ccccc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0
+664,Cc1occc1C(=O)Nc1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+665,COP(=S)(OC)Oc1ccc([N+](=O)[O-])c(C)c1,"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,1,1,0,0
+666,CN(C)C(=O)SCCCCOc1ccccc1,"['organosulfur', 'organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0
+667,CCOC(=O)NCCOc1ccc(Oc2ccccc2)cc1,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+668,CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C,"['organoheterocyclic', 'benzenoids', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+669,CCOP(=S)(OCC)Oc1ccc(S(C)=O)cc1,"['organosulfur', 'organoheterocyclic', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0
+670,COP(=S)(OC)Oc1ccc(SC)c(C)c1,"['organosulfur', 'organoheterocyclic', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0
+671,CN(C)C(=O)Nc1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+672,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,"['organoheterocyclic', 'organohalogens', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0
+673,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(OC(F)F)cc1,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organic_acids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,1,0,1
+674,Nc1nc(=O)[nH]cc1F,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+675,CC12CCC(=O)C=C1CCC1C3CCC(O)(C(=O)CO)C3(C)CC(O)C12F,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+676,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+677,CCN(Cc1c(F)cccc1Cl)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0
+678,CN(C)C(=O)Nc1cccc(C(F)(F)F)c1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+679,c1ccc2c(c1)-c1cccc3cccc-2c13,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+680,c1ccc2c(c1)Cc1ccccc1-2,"['organoheterocyclic', 'hydrocarbon_derivatives', 'organic_anions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+681,Fc1ccccc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+682,CC(=O)C1(O)CCC2C3CC(C)C4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+683,Cn1cc(-c2ccccc2)c(=O)c(-c2cccc(C(F)(F)F)c2)c1,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_anions', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0
+684,O=C1C(Cl)C(CCl)CN1c1cccc(C(F)(F)F)c1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+685,OC(Cn1cncn1)(c1ccc(F)cc1)c1ccccc1F,"['organoheterocyclic', 'organohalogens', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0
+686,CC(C)C(Nc1ccc(C(F)(F)F)cc1Cl)C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organic_acids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,1,0,1
+687,CNC(=O)Oc1cccc(N=CN(C)C)c1,"['organoheterocyclic', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+688,COP(=S)(OC)SCC(=O)N(C)C=O,"['organosulfur', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0
+689,OCC1OC(O)(CO)C(O)C1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+690,c1ccoc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+691,O=Cc1ccco1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+692,COC1=CC2OC3C=CC(O)=CC3C(=O)C2C(O)=C1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+693,O=C(OCC(O)CO)c1ccccc1Nc1ccnc2cc(Cl)ccc12,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+694,OCC1OC(O)C(O)C(O)C1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+695,CCC1(c2ccccc2)CCC(=O)NC1=O,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+696,OCC(O)CO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+697,CC(=O)OCC(COC(C)=O)OC(C)=O,"['organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+698,COC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+699,COc1ccccc1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+700,Nc1nc2[nH]cnc2c(=O)[nH]1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+701,FC(F)(F)C(Cl)Br,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+702,O=C1C=C2CC3(O)COc4c(ccc(O)c4O)C3=C2C=C1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+703,ClC1=C(Cl)C2(Cl)C3C(Cl)C=CC3C1(Cl)C2(Cl)Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+704,CCCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+705,ClC(Cl)=C(Cl)C(Cl)=C(Cl)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+706,ClC(Cl)(Cl)C(Cl)(Cl)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+707,CCCCCCCCCCCCCCCCCCCCCCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+708,CCCCCCCCCCCCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+709,Cc1c(C)c(C)c(C)c(C)c1C,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+710,CCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+711,CCC(c1ccc(O)cc1)C(CC)c1ccc(O)cc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+712,CCCCCCc1ccccc1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+713,O=C1CNC(=O)N1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+714,c1ccc(NNc2ccccc2)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+715,OC(c1ccccc1)C(O)c1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+716,NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+717,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+718,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+719,OC1C=CC2C1C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+720,CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+721,O=c1[nH]cnc2nc[nH]c12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+722,c1ccc2c(c1)CCC2,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+723,CC1Cc2ccccc2N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+724,c1ccc2[nH]ncc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+725,c1ccc2[nH]ccc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+726,c1ccc2c(c1)CCN2,"['organoheterocyclic', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+727,OCC1OC(n2cnc3c(O)ncnc32)C(O)C1O,"['organoheterocyclic', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0
+728,Ic1ccccc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+729,CCI,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+730,COP(=S)(OC)Oc1cc(Cl)c(I)cc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0
+731,CI,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+732,N#Cc1cc(I)c(O)c(I)c1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+733,CCN(CC)c1nc(Cl)nc(NC(C)C)n1,"['organoheterocyclic', 'organohalogens', 'organometallics', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0
+734,CCOP(=S)(OCC)Oc1nc(Cl)n(C(C)C)n1,"['organoheterocyclic', 'organohalogens', 'organometallics', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0
+735,CC(=O)OCC(C)C,"['organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+736,CC(C)COC=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+737,CC(C)Cc1ccccc1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+738,CC(C)CNC(=O)N1CCNC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+739,Cc1cc(C(=O)NNCc2ccccc2)no1,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+740,CCOP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C,"['organoheterocyclic', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,1,0,0
+741,Nc1nc(O)nc2nc[nH]c12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+742,NNC(=O)c1ccncc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+743,CC(=O)OCCC(C)C,"['organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+744,CC(C)CCOC=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+745,CC1=CC(=O)CC(C)(C)C1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+746,CNC(=O)Oc1ccccc1C(C)C,"['organoheterocyclic', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+747,CCCN(CCC)c1c([N+](=O)[O-])cc(C(C)C)cc1[N+](=O)[O-],"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+748,CC(=O)OC(C)C,"['organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+749,CC(C)OC=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+750,CC(C)c1ccccc1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+751,CC(C)c1ccc(NC(=O)N(C)C)cc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+752,c1ccc2cnccc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+753,CN(C)C(=O)Nc1cccc(OC(=O)NC(C)(C)C)c1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+754,CC(=O)CCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+755,O=C1C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+756,COc1c2occc2c(OC)c2c(=O)cc(C)oc12,"['organoheterocyclic', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+757,OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+758,OC1COC(O)C(O)C1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+759,O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+760,C=CC(C)(O)CCC=C(C)C,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+761,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+762,CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+763,O=C1Nc2ccc(Cl)cc2C(c2ccccc2Cl)=NC1O,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+764,CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+765,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,"['organosulfur', 'organic_acids', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+766,CCOC(=O)CC(=O)OCC,"['organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+767,OCC(O)C(O)C(O)C(O)CO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+768,Nc1cccc(Cl)c1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0
+769,Clc1cccc(Br)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+770,Clc1cccc(I)c1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+771,O=[N+]([O-])c1cccc(Cl)c1,"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0
+772,COC(=O)Nc1nc2ccc(C(=O)c3ccccc3)cc2[nH]1,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+773,CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC,"['organosulfur', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0
+774,COC1=C(OC)C2C(=O)OCC2C=C1,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+775,CC(=O)C1(C)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+776,CN(C(=O)COc1nc2ccccc2s1)c1ccccc1,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+777,CC(=O)Nc1cc(NS(=O)(=O)C(F)(F)F)c(C)cc1C,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+778,CC(=O)OC1(C(C)=O)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+779,CC1=CC(=O)c2ccccc2C1=O,"['organoheterocyclic', 'benzenoids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+780,CC1CCC(C(C)C)C(O)C1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+781,CC1CCC(C(C)C)C(=O)C1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+782,CCCC(C)(COC(N)=O)COC(N)=O,"['organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+783,Sc1nc2ccccc2s1,['mixed_metal_non_metal'],inorganic,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+784,COCC(=O)N(c1c(C)cccc1C)C(C)C(=O)OC,"['organoheterocyclic', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+785,C,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+786,CO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+787,Cc1ccccc1-n1c(C)nc2ccccc2c1=O,"['organoheterocyclic', 'benzenoids', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_anions', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,1,0,0
+788,CCC1(CC)C(=O)NC(=O)N(C)C1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+789,Cn1c(=O)on(-c2ccc(Cl)c(Cl)c2)c1=O,"['organoheterocyclic', 'organohalogens', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_anions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0
+790,COc1ccccc1OCC(O)COC(N)=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+791,COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+792,COCCCNc1nc(NC(C)C)nc(SC)n1,"['organosulfur', 'organoheterocyclic', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,1,0
+793,COc1c2occc2cc2ccc(=O)oc12,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+794,COc1ccc(C(c2ccc(OC)cc2)C(Cl)(Cl)Cl)cc1,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+795,COC(C)=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+796,C=CC(=O)OC,"['organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+797,COC(=O)c1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+798,CCCCOC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+799,CCCOC(=O)CC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+800,CCCCCCCCCC(=O)OC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+801,COC=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+802,COC(=O)c1cc(O)c(O)c(O)c1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+803,CCCCCC(=O)OC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+804,CNN,"['organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+805,CCCCCCCCCCCC(=O)OC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+806,COC(=O)c1cccnc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+807,CCCCCCCCC(=O)OC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+808,CCCCCCCC(=O)OC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+809,CCCC(=O)OCC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+810,CCC(=O)OC,"['organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+811,CCCOC,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+812,COC(C)(C)C,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+813,CC1CCCCC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+814,CC1CCCC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+815,CN(C(=O)NC(C)(C)c1ccccc1)c1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+816,COC(=O)c1ccc(O)cc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+817,CC(=O)OC1(C)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+818,Cc1cc(=O)[nH]c(=S)[nH]1,"['organoheterocyclic', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0
+819,CCc1cccc(C)c1N(C(=O)CCl)C(C)COC,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+820,Cc1ccccc1N1C(=O)c2cc(S(N)(=O)=O)c(Cl)cc2NC1C,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+821,CNC(=O)Oc1ccccc1,"['organoheterocyclic', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+822,COc1ccc(NC(=O)N(C)C)cc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+823,Cc1ncc([N+](=O)[O-])n1CCO,"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+824,CSc1nnc(C(C)(C)C)c(=O)n1N,"['organosulfur', 'organoheterocyclic', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,1,0
+825,Fc1cccc(Br)c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+826,Nc1cc(N2CCCCC2)nc(N)[n+]1[O-],"['organoheterocyclic', 'organic_salts', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,1,0,1,0,0
+827,ClC1(Cl)C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+828,Cc1cccc(N)c1,"['organoheterocyclic', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+829,Nc1cccc([N+](=O)[O-])c1,"['homogenous_non_metal', 'inorganic_salts']",inorganic,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+830,O=[N+]([O-])c1cccc(O)c1,"['homogenous_non_metal', 'inorganic_salts']",inorganic,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+831,Cc1cccc([N+](=O)[O-])c1,"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+832,CON(C)C(=O)Nc1ccc(Cl)cc1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+833,COC(=O)c1ccccc1OC1OC(COC2OCC(O)C(O)C2O)C(O)C(O)C1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+834,CN(C)C(=O)Nc1ccc(Cl)cc1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+835,O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+836,Cc1cccc(C)c1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+837,CCN(CC)c1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+838,CC(=O)N(C)C,"['organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+839,CN(C)c1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+840,COP(=O)(OC)OC(Br)C(Cl)(Cl)Br,"['organohalogens', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+841,CCN(CC)C(=O)C(C)Oc1cccc2ccccc12,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+842,c1ccc2cc3cc4ccccc4cc3cc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+843,c1ccc2ccccc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+844,CCCCN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+845,CC(C)=CCC/C(C)=C\CO,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+846,CCNc1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+847,Cc1ccnc2c1NC(=O)c1cccnc1N2C1CC1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+848,O=C(Nc1ccc([N+](=O)[O-])cc1Cl)c1cc(Cl)ccc1O,"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0
+849,NC(=O)c1cccnc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+850,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],"['organoheterocyclic', 'organic_acids', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+851,O=[N+]([O-])c1ccc(C=NO)o1,"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+852,CN1C(=O)CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc21,"['organoheterocyclic', 'benzenoids', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+853,O=C1NCCN1c1ncc([N+](=O)[O-])s1,"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+854,Clc1cccc(C(Cl)(Cl)Cl)n1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+855,O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1,"['organoheterocyclic', 'benzenoids', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+856,O=[N+]([O-])c1ccccc1,"['homogenous_non_metal', 'inorganic_salts']",inorganic,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+857,CC[N+](=O)[O-],"['organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0
+858,O=[N+]([O-])c1ccc(Oc2ccc(Cl)cc2Cl)cc1,"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0
+859,O=C1CN(N=Cc2ccc([N+](=O)[O-])o2)C(=O)N1,"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+860,O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-],"['organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0
+861,C[N+](=O)[O-],"['organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0
+862,CNc1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+863,CCCCCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+864,O=C1NC(=O)C2C3C(C(O)(c4ccccc4)c4ccccn4)=CC(C3=C(c3ccccc3)c3ccccn3)C12,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+865,CN(C)C(=O)NC1CC2CC1C1CCCC21,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+866,C#CC1(OC(C)=O)CCC2C3CCC4=CC(=O)CCC4C3CCC21C,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+867,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4(O)C3CCC21C,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+868,CNc1cnn(-c2cccc(C(F)(F)F)c2)c(=O)c1Cl,"['organoheterocyclic', 'alkaloids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_anions', 'organopnictogens']",organic,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,0,0,1,0,0
+869,Clc1ccc(C(c2ccccc2Cl)C(Cl)Cl)cc1,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+870,Nc1ccccc1O,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+871,Nc1ccccc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0
+872,Clc1ccccc1Br,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+873,Clc1ccccc1I,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+874,O=[N+]([O-])c1ccccc1Cl,"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0
+875,CCCCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+876,CCOC(N)=O,"['organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+877,Fc1ccccc1Br,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+878,NC(=O)c1ccccc1O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+879,Nc1ccccc1[N+](=O)[O-],"['homogenous_non_metal', 'inorganic_salts']",inorganic,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+880,COc1ccccc1[N+](=O)[O-],"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+881,O=[N+]([O-])c1ccccc1O,"['homogenous_non_metal', 'inorganic_salts']",inorganic,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+882,Cc1ccccc1[N+](=O)[O-],"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+883,CCCN(CCC)c1c([N+](=O)[O-])cc(S(N)(=O)=O)cc1[N+](=O)[O-],"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+884,COc1ccc2ccc(=O)oc2c1CC=C(C)C,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+885,Cc1ccccc1N,"['organoheterocyclic', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+886,CC(C)Oc1cc(-n2nc(C(C)(C)C)oc2=O)c(Cl)cc1Cl,"['organoheterocyclic', 'organohalogens', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_anions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0
+887,CNC(=O)ON=C(SC)C(=O)N(C)C,"['organosulfur', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+888,O=C1Nc2ccc(Cl)cc2C(c2ccccc2)=NC1O,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+889,CC1=C(C(=O)Nc2ccccc2)S(=O)(=O)CCO1,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+890,Cc1ccccc1C,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+891,CCCCC1C(=O)N(c2ccccc2)N(c2ccc(O)cc2)C1=O,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+892,Nc1ccc(-c2ccc(N)cc2)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+893,Nc1ccc(O)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+894,O=C1NC(=O)C(=O)N1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+895,CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1,"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,1,1,0,0
+896,CC(=O)Nc1ccc(Br)cc1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+897,Brc1ccc(I)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+898,CC(=O)Nc1ccc(Cl)cc1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+899,Nc1ccc(Cl)cc1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0
+900,Clc1ccc(Br)cc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+901,Clc1ccc(I)cc1,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+902,O=[N+]([O-])c1ccc(Cl)cc1,"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0
+903,Cc1ccc(O)cc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+904,CCCCN(CC)C(=O)SCCC,"['organosulfur', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+905,O=C(Nc1ccccc1)N(Cc1ccc(Cl)cc1)C1CCCC1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+906,Clc1cc(Cl)c(Cl)c(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+907,ClC(Cl)C(Cl)(Cl)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+908,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+909,Cc1cc(C)c(C)c(C)c1C,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+910,CCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+911,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+912,CCCCCOC(C)=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+913,CCCCC(=O)OCC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+914,CCCCCc1ccccc1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+915,CCCCCC1CCCC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+916,Cc1cc(S(=O)(=O)c2ccccc2)ccc1NS(=O)(=O)C(F)(F)F,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+917,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1cccc(Oc2ccccc2)c1,"['organoheterocyclic', 'benzenoids', 'organic_acids', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+918,c1cc2cccc3c4cccc5cccc(c(c1)c23)c54,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+919,CC(=O)Nc1ccc(F)cc1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+920,CCOc1ccc(NC(C)=O)cc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+921,c1ccc2c(c1)ccc1ccccc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+922,c1ccc2c(c1)cnc1ccccc12,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+923,CCOc1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+924,COC(=O)Nc1cccc(OC(=O)Nc2cccc(C)c2)c1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+925,Oc1ccccc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+926,O=C1OC(c2ccc(O)cc2)(c2ccc(O)cc2)c2ccccc21,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+927,CC(C)=CC1C(C(=O)OCc2cccc(Oc3ccccc3)c2)C1(C)C,"['organoheterocyclic', 'benzenoids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+928,CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+929,NNc1ccccc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+930,OCc1ccccc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+931,NC(=S)Nc1ccccc1,"['organosulfur', 'organoheterocyclic', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0
+932,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+933,CCOP(=S)(OCC)SCSCC,"['organosulfur', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+934,CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc21,"['organosulfur', 'organoheterocyclic', 'organohalogens', 'organometallics', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0
+935,CCOP(=S)(OCC)ON=C(C#N)c1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,1,0,0
+936,O=C1NC(=O)C2C=CC=CC12,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+937,O=C1NC(=O)c2ccccc21,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+938,N#Cc1ccccc1C#N,"['organoheterocyclic', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+939,CC(=O)Nc1ccc(O)cc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+940,O=Cc1ccc(O)cc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+941,c1ccc2c(c1)ccc1c2ccc2c3ccccc3ccc21,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+942,O=C(C=CC=Cc1ccc2c(c1)OCO2)N1CCCCC1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+943,O=Cc1ccc2c(c1)OCO2,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+944,CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C,"['organosulfur', 'organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,1,1,0
+945,Cc1nc(N(C)C)nc(OC(=O)N(C)C)c1C,"['organoheterocyclic', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0
+946,CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+947,COc1ccc(C=O)cc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+948,Cc1ccc(N)cc1,"['organoheterocyclic', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+949,Nc1ccc([N+](=O)[O-])cc1,"['homogenous_non_metal', 'inorganic_salts']",inorganic,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+950,COc1ccc([N+](=O)[O-])cc1,"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+951,O=[N+]([O-])c1ccc(O)cc1,"['homogenous_non_metal', 'inorganic_salts']",inorganic,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+952,Cc1ccc([N+](=O)[O-])cc1,"['organoheterocyclic', 'organic_salts', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0
+953,Oc1ccc(-c2ccccc2)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+954,CC12CCC3C(CC=C4CC(O)CCC43C)C1CCC2=O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+955,CC12C=CC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+956,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC21C,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+957,CC(=O)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+958,CCC1(c2ccccc2)C(=O)NCNC1=O,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+959,CC12CC1(C)C(=O)N(c1cc(Cl)cc(Cl)c1)C2=O,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+960,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+961,COc1nc(NC(C)C)nc(NC(C)C)n1,"['organoheterocyclic', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0
+962,CSc1nc(NC(C)C)nc(NC(C)C)n1,"['organosulfur', 'organoheterocyclic', 'organometallics', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0
+963,CC(C)N(C(=O)CCl)c1ccccc1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+964,CCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+965,CCC(=O)Nc1ccc(Cl)c(Cl)c1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+966,CC(C)Nc1nc(Cl)nc(NC(C)C)n1,"['organoheterocyclic', 'organohalogens', 'organometallics', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0
+967,CCNP(=S)(OC)OC(C)=CC(=O)OC(C)C,"['organic_acids', 'organic_nitrogen', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0
+968,CCCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,"['organoheterocyclic', 'organohalogens', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0
+969,CCC=O,"['phenylpropanoids_and_polyketides', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+970,CCC#N,"['organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+971,CNC(=O)Oc1ccccc1OC(C)C,"['organoheterocyclic', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+972,CCCOC(C)=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+973,CCCC(=O)OC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+974,CCCOC=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+975,CCCCC(=O)OC,"['lipids', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+976,CCCc1ccccc1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+977,CCCC1CCCC1,"['organoheterocyclic', 'hydrocarbon']",organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+978,C=CC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+979,CCCOC(C)C,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+980,C#CC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+981,CC(C)(C)c1ccc(O)cc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+982,c1cnc2ncncc2n1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+983,c1ccc(-c2ccc(-c3ccccc3)cc2)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+984,Cc1ccc(S(N)(=O)=O)cc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+985,Cc1ccc(C)cc1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+986,CC1=C(C(=O)Nc2ccccc2)CCCO1,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+987,NC(=O)c1cnccn1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+988,Nc1cnn(-c2ccccc2)c(=O)c1Cl,"['organoheterocyclic', 'benzenoids', 'alkaloids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_anions', 'organopnictogens']",organic,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,0,0,1,0,0
+989,c1cc2ccc3cccc4ccc(c1)c2c34,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+990,c1ccnnc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+991,c1ccncc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+992,c1cncnc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+993,Cc1cc(OC(=O)N(C)C)n(-c2ccccc2)n1,"['organoheterocyclic', 'benzenoids', 'alkaloids', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_anions', 'organopnictogens']",organic,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,1,0,0
+994,CCC1NC(=O)c2cc(S(N)(=O)=O)c(Cl)cc2N1,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+995,c1ccc2ncccc2c1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+996,O=C(CC(Cl)Cl)NC1=C(Cl)C(=O)c2ccccc2C1=O,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+997,O=[N+]([O-])c1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,"['organoheterocyclic', 'organic_salts', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_zwitterions']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0
+998,OCC1OC(OCC2OC(OC3(CO)OC(CO)C(O)C3O)C(O)C(O)C2O)C(O)C(O)C1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+999,CCC1(C2=CCC3CCC2C3)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1000,CCN1c2ncccc2C(=O)N(C)c2cccnc21,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1001,O=C1CSC(=S)N1,"['organosulfur', 'organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+1002,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(CC(O)C(O)C(O)CO)c2cc1C,"['organoheterocyclic', 'organic_salts', 'organic_oxygen', 'hydrocarbon_derivatives', 'organic_anions', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,1,0,0
+1003,CCCOC(=O)c1ccc(N)cc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1004,COP(=S)(OC)Oc1cc(Cl)c(Cl)cc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0
+1005,C=C(C)C1Cc2c(ccc3c2OC2COc4cc(OC)c(OC)cc4C2C3=O)O1,"['organoheterocyclic', 'benzenoids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1006,CC(C)NC(=O)N1CC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+1007,CN1C(=O)c2cccnc2Oc2ccccc21,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1008,Cc1ccc2c(c1)C(=O)N(C)c1cc(N)ccc1O2,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1009,CCN1c2ncccc2C(=O)N(C)c2ccc(Cl)nc21,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+1010,CCN1c2ncccc2C(=O)Nc2c(C(F)(F)F)cc(C)nc21,"['organoheterocyclic', 'organohalogens', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,1,0,0
+1011,CCN1c2ncccc2C(=O)Nc2c(C)cc(C)nc21,"['organoheterocyclic', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0
+1012,CCN1c2ncccc2C(=S)N(C)c2cccnc21,"['organosulfur', 'organoheterocyclic', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0
+1013,CCN1c2ccccc2N(C)C(=S)c2cccnc21,"['organosulfur', 'organoheterocyclic', 'benzenoids', 'organometallics', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0
+1014,CCN1c2ccccc2C(=O)N(C)c2ccccc21,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1015,CCN1C(=O)c2cccnc2N(CC)c2ncccc21,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1016,O=C1c2ccccc2Cc2ccccc2N1CCF,"['organoheterocyclic', 'benzenoids', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+1017,CCN1c2cc(N(C)C)cc(C)c2NC(=O)c2cccnc21,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1018,CCN1c2cc(OC)cc(C)c2NC(=O)c2cccnc21,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1019,CCN1c2cc(Cl)ccc2NC(=O)c2cccnc21,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+1020,Cc1ccc2c(c1)Oc1ncc(N)cc1C(=O)N2C,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1021,CCN1c2ccccc2N(C)C(=O)c2cccnc21,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1022,CCN1c2nc(N(C)CCO)ccc2NC(=O)c2cccnc21,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1023,CCN1C(=O)c2ccccc2Oc2ccccc21,"['organoheterocyclic', 'benzenoids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1024,OCc1ccccc1OC1OC(CO)C(O)C(O)C1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1025,O=C(Nc1ccccc1)c1ccccc1O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1026,CC1=C2C3OC(=O)C(C)C3CCC2(C)C=CC1=O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1027,C=CCC1(C(C)CCC)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1028,CC1CCCCC1NC(=O)Nc1ccccc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1029,CCNc1nc(Cl)nc(NCC)n1,"['organoheterocyclic', 'organohalogens', 'organometallics', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0
+1030,CSc1nc(N(C)C)nc(N(C)C)n1,"['organosulfur', 'organoheterocyclic', 'organometallics', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0
+1031,CSCS(=O)CC(CO)NC(=O)C=Cc1c(C)[nH]c(=O)[nH]c1=O,"['organosulfur', 'organoheterocyclic', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,1,0
+1032,CC(=O)SC1CC2=CC(=O)CCC2(C)C2CCC3(C)C(CCC34CCC(=O)O4)C12,"['organosulfur', 'organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+1033,CCCCOc1ccc(C(=O)OCC)c(N(CC)CC)c1,"['organoheterocyclic', 'lipids', 'organic_acids', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1034,CC12CCC3C(CCC4CC(=O)CCC43C)C1CCC2O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1035,COP(=O)(OC)OC(=CCl)c1cc(Cl)c(Cl)cc1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0
+1036,C=Cc1ccccc1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1037,c1ccc(C2CO2)cc1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1038,O=C1CCC(=O)N1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+1039,OCC1OC(OC2(CO)OC(CO)C(O)C2O)C(O)C(O)C1O,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1040,N=C(N)NS(=O)(=O)c1ccc(N)cc1,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1041,C=C(Cl)CSC(=S)N(CC)CC,"['organosulfur', 'organohalogens', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0
+1042,Nc1ccc(S(N)(=O)=O)cc1,['homogenous_non_metal'],inorganic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1043,C=CCC1(C(C)CC)C(=O)NC(=O)NC1=O,"['organoheterocyclic', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+1044,CC(C)(C)c1ccccc1,"['organoheterocyclic', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1045,C/C=C/C=O,"['organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1046,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(F)c(Cl)c1F,"['organoheterocyclic', 'organohalogens', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+1047,Cc1[nH]c(=O)n(C(C)(C)C)c(=O)c1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0
+1048,CCOP(=S)(OCC)SCSC(C)(C)C,"['organosulfur', 'organic_oxygen', 'organophosphorus', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+1049,CCNc1nc(NC(C)(C)C)nc(OC)n1,"['organoheterocyclic', 'organometallics', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0
+1050,CCNc1nc(NC(C)(C)C)nc(SC)n1,"['organosulfur', 'organoheterocyclic', 'organometallics', 'organic_nitrogen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0
+1051,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1052,CC(=O)OC1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1053,CCC(=O)OC1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,"['organoheterocyclic', 'organic_acids', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1054,BrC(Br)(Br)Br,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1055,ClC(Cl)=C(Cl)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1056,COc1c(O)c(Cl)c(Cl)c(Cl)c1Cl,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+1057,ClC(Cl)(Cl)Cl,"['organohalogens', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1058,CCCCCCCCCCCCCC,['hydrocarbon'],organic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1059,Cc1c(F)c(F)c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)c(F)c1F,"['organoheterocyclic', 'organohalogens', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+1060,C1CCOC1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1061,C1CCOCC1,"['organoheterocyclic', 'organic_oxygen', 'hydrocarbon_derivatives']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1062,CN(C)C(=O)N(C)C,"['organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+1063,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,"['organoheterocyclic', 'benzenoids', 'phenylpropanoids_and_polyketides', 'organic_nitrogen', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+1064,Cn1cnc2c1c(=O)[nH]c(=O)n2C,"['organoheterocyclic', 'organometallics', 'organic_oxygen', 'hydrocarbon_derivatives', 'organopnictogens']",organic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0
